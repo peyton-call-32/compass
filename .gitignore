@@ -1,0 +1,12 @@
+node_modules/
+.next/
+.env.local
+next-env.d.ts
+*.tsbuildinfo
+# Real student profiles and cached matches stay out of the repo
+data/profiles/*.json
+data/matches/*.json
+data/plans/*.json
+.DS_Store
+.env
+.env.*

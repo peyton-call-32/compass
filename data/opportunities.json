@@ -1,0 +1,517 @@
+[
+  {
+    "id": "int-01",
+    "type": "internship",
+    "title": "Summer Consulting Intern",
+    "org": "Salt Lake boutique strategy firm",
+    "description": "10-week internship on client strategy projects for mid-market companies. Juniors preferred.",
+    "tags": [
+      "consulting",
+      "strategy"
+    ],
+    "when": "Apply by Oct 31",
+    "date": "2026-10-31",
+    "preferredYears": [
+      "Junior"
+    ],
+    "action": "Apply"
+  },
+  {
+    "id": "int-02",
+    "type": "internship",
+    "title": "Associate Product Manager Intern",
+    "org": "Lehi SaaS company",
+    "description": "Own a small feature from research to launch with an engineering squad.",
+    "tags": [
+      "product",
+      "tech",
+      "software"
+    ],
+    "when": "Apply by Nov 15",
+    "date": "2026-11-15",
+    "action": "Apply"
+  },
+  {
+    "id": "int-03",
+    "type": "internship",
+    "title": "Investment Banking Summer Analyst",
+    "org": "Regional bank, Salt Lake office",
+    "description": "Build models and pitch books for middle-market M&A deals. Juniors preferred.",
+    "tags": [
+      "investment-banking",
+      "finance",
+      "investing"
+    ],
+    "when": "Apply by Oct 15",
+    "date": "2026-10-15",
+    "preferredYears": [
+      "Junior"
+    ],
+    "action": "Apply"
+  },
+  {
+    "id": "int-04",
+    "type": "internship",
+    "title": "Corporate Finance Intern (FP&A)",
+    "org": "Utah outdoor gear brand",
+    "description": "Help build forecasts and budget reviews for a growing consumer brand.",
+    "tags": [
+      "finance",
+      "outdoors"
+    ],
+    "when": "Rolling",
+    "action": "Apply"
+  },
+  {
+    "id": "int-05",
+    "type": "internship",
+    "title": "Software Engineering Intern",
+    "org": "Provo AI startup",
+    "description": "Ship backend features for an LLM product with a small team.",
+    "tags": [
+      "software",
+      "ai",
+      "startups",
+      "tech"
+    ],
+    "when": "Apply by Nov 1",
+    "date": "2026-11-01",
+    "action": "Apply"
+  },
+  {
+    "id": "int-06",
+    "type": "internship",
+    "title": "Data Analyst Intern",
+    "org": "Healthcare analytics company",
+    "description": "SQL and dashboard work on patient outcome data.",
+    "tags": [
+      "data",
+      "healthcare",
+      "tech"
+    ],
+    "when": "Rolling",
+    "action": "Apply"
+  },
+  {
+    "id": "int-07",
+    "type": "internship",
+    "title": "Marketing Intern",
+    "org": "Sports media startup",
+    "description": "Run social campaigns and measure growth for a fan-focused app. Open to freshmen and sophomores.",
+    "tags": [
+      "marketing",
+      "sports",
+      "media",
+      "startups"
+    ],
+    "when": "Apply by Dec 1",
+    "date": "2026-12-01",
+    "preferredYears": [
+      "Freshman",
+      "Sophomore"
+    ],
+    "action": "Apply"
+  },
+  {
+    "id": "int-08",
+    "type": "internship",
+    "title": "Audit & Advisory Intern",
+    "org": "Big 4 firm, Salt Lake office",
+    "description": "Summer rotation across audit and advisory teams. For sophomores and juniors.",
+    "tags": [
+      "accounting",
+      "finance",
+      "consulting"
+    ],
+    "when": "Apply by Oct 20",
+    "date": "2026-10-20",
+    "preferredYears": [
+      "Sophomore",
+      "Junior"
+    ],
+    "action": "Apply"
+  },
+  {
+    "id": "int-09",
+    "type": "internship",
+    "title": "Founder's Associate",
+    "org": "Early-stage edtech startup",
+    "description": "Work directly with the CEO on sales, ops, and fundraising.",
+    "tags": [
+      "entrepreneurship",
+      "startups",
+      "education",
+      "sales",
+      "strategy"
+    ],
+    "when": "Rolling",
+    "action": "Reach out"
+  },
+  {
+    "id": "int-10",
+    "type": "internship",
+    "title": "UX Research Intern",
+    "org": "Lehi fintech company",
+    "description": "Run user interviews and usability tests for a banking app.",
+    "tags": [
+      "design",
+      "tech",
+      "finance"
+    ],
+    "when": "Apply by Nov 30",
+    "date": "2026-11-30",
+    "action": "Apply"
+  },
+  {
+    "id": "int-11",
+    "type": "internship",
+    "title": "Real Estate Acquisitions Intern",
+    "org": "Utah multifamily investment firm",
+    "description": "Underwrite apartment deals and tour properties.",
+    "tags": [
+      "real-estate",
+      "investing",
+      "finance"
+    ],
+    "when": "Rolling",
+    "action": "Apply"
+  },
+  {
+    "id": "int-12",
+    "type": "internship",
+    "title": "Nonprofit Strategy Fellow",
+    "org": "Global development nonprofit",
+    "description": "Summer fellowship on program strategy in Latin America.",
+    "tags": [
+      "social-impact",
+      "strategy",
+      "international"
+    ],
+    "when": "Apply by Jan 15",
+    "date": "2027-01-15",
+    "action": "Apply"
+  },
+  {
+    "id": "eve-01",
+    "type": "event",
+    "title": "Consulting Case Night",
+    "org": "Marriott School",
+    "description": "Practice live cases with alumni from strategy firms.",
+    "tags": [
+      "consulting",
+      "strategy"
+    ],
+    "when": "Thu, Oct 8, 7 pm",
+    "date": "2026-10-08",
+    "action": "RSVP"
+  },
+  {
+    "id": "eve-02",
+    "type": "event",
+    "title": "Product Management Panel",
+    "org": "Marriott School",
+    "description": "PMs from Utah tech companies talk about breaking into product.",
+    "tags": [
+      "product",
+      "tech"
+    ],
+    "when": "Tue, Oct 13, 6 pm",
+    "date": "2026-10-13",
+    "action": "RSVP"
+  },
+  {
+    "id": "eve-03",
+    "type": "event",
+    "title": "Finance Recruiting Info Session",
+    "org": "Marriott School",
+    "description": "Banks and funds explain their summer programs and timelines.",
+    "tags": [
+      "investment-banking",
+      "finance",
+      "investing"
+    ],
+    "when": "Wed, Oct 7, 5 pm",
+    "date": "2026-10-07",
+    "action": "RSVP"
+  },
+  {
+    "id": "eve-04",
+    "type": "event",
+    "title": "AI Builders Demo Night",
+    "org": "Computer Science Dept.",
+    "description": "Students demo AI projects. Recruiters from local startups attend.",
+    "tags": [
+      "ai",
+      "software",
+      "startups",
+      "tech"
+    ],
+    "when": "Fri, Oct 16, 6 pm",
+    "date": "2026-10-16",
+    "action": "RSVP"
+  },
+  {
+    "id": "eve-05",
+    "type": "event",
+    "title": "Startup Pitch Competition",
+    "org": "Entrepreneurship center",
+    "description": "Pitch an idea for seed money and mentor feedback.",
+    "tags": [
+      "entrepreneurship",
+      "startups"
+    ],
+    "when": "Sat, Oct 24",
+    "date": "2026-10-24",
+    "action": "Sign up"
+  },
+  {
+    "id": "eve-06",
+    "type": "event",
+    "title": "Marketing Career Mixer",
+    "org": "Marriott School",
+    "description": "Meet brand and growth marketers from Utah companies.",
+    "tags": [
+      "marketing",
+      "sales",
+      "media"
+    ],
+    "when": "Mon, Oct 19, 6 pm",
+    "date": "2026-10-19",
+    "action": "RSVP"
+  },
+  {
+    "id": "eve-07",
+    "type": "event",
+    "title": "Social Impact Careers Night",
+    "org": "Social impact center",
+    "description": "Hear from alumni working in nonprofits and impact investing.",
+    "tags": [
+      "social-impact",
+      "nonprofit",
+      "international"
+    ],
+    "when": "Wed, Oct 21, 7 pm",
+    "date": "2026-10-21",
+    "action": "RSVP"
+  },
+  {
+    "id": "eve-08",
+    "type": "event",
+    "title": "Healthcare Industry Night",
+    "org": "Marriott School",
+    "description": "Hospital, health tech, and pharma leaders on career paths.",
+    "tags": [
+      "healthcare",
+      "strategy",
+      "data"
+    ],
+    "when": "Thu, Oct 29, 6 pm",
+    "date": "2026-10-29",
+    "action": "RSVP"
+  },
+  {
+    "id": "eve-09",
+    "type": "event",
+    "title": "Accounting Firm Meet the Firms",
+    "org": "School of Accountancy",
+    "description": "Talk with recruiters from Big 4 and regional firms.",
+    "tags": [
+      "accounting",
+      "finance"
+    ],
+    "when": "Tue, Oct 6, 5 pm",
+    "date": "2026-10-06",
+    "action": "RSVP"
+  },
+  {
+    "id": "clu-01",
+    "type": "club",
+    "title": "Management Consulting Association",
+    "org": "BYU student club",
+    "description": "Case prep, firm visits, and recruiting help for consulting.",
+    "tags": [
+      "consulting",
+      "strategy"
+    ],
+    "action": "Join"
+  },
+  {
+    "id": "clu-02",
+    "type": "club",
+    "title": "Product Management Association",
+    "org": "BYU student club",
+    "description": "PM workshops, mock interviews, and product teardown nights.",
+    "tags": [
+      "product",
+      "tech",
+      "design"
+    ],
+    "action": "Join"
+  },
+  {
+    "id": "clu-03",
+    "type": "club",
+    "title": "Artificial Intelligence Association",
+    "org": "BYU student club",
+    "description": "Build AI projects with other students and hear from AI founders.",
+    "tags": [
+      "ai",
+      "software",
+      "tech"
+    ],
+    "action": "Join"
+  },
+  {
+    "id": "clu-04",
+    "type": "club",
+    "title": "Finance Society",
+    "org": "BYU student club",
+    "description": "Technical interview prep and networking for banking and PE.",
+    "tags": [
+      "finance",
+      "investment-banking",
+      "investing"
+    ],
+    "action": "Join"
+  },
+  {
+    "id": "clu-05",
+    "type": "club",
+    "title": "Developers Club",
+    "org": "BYU student club",
+    "description": "Weekly hack nights and side projects for student developers.",
+    "tags": [
+      "software",
+      "tech",
+      "startups"
+    ],
+    "action": "Join"
+  },
+  {
+    "id": "clu-06",
+    "type": "club",
+    "title": "Marketing Association",
+    "org": "BYU student club",
+    "description": "Real client projects and agency visits.",
+    "tags": [
+      "marketing",
+      "media",
+      "sales"
+    ],
+    "action": "Join"
+  },
+  {
+    "id": "clu-07",
+    "type": "club",
+    "title": "Real Estate Club",
+    "org": "BYU student club",
+    "description": "Deal case competitions and site tours with local investors.",
+    "tags": [
+      "real-estate",
+      "investing"
+    ],
+    "action": "Join"
+  },
+  {
+    "id": "alu-01",
+    "type": "alum",
+    "title": "BYU alum, PM at Adobe, Class of 2019",
+    "org": "Alumni network",
+    "description": "Former consultant who moved into product. Open to coffee chats about PM recruiting.",
+    "tags": [
+      "product",
+      "tech",
+      "consulting"
+    ],
+    "action": "Request coffee chat"
+  },
+  {
+    "id": "alu-02",
+    "type": "alum",
+    "title": "BYU alum, Consultant at a strategy firm, Class of 2021",
+    "org": "Alumni network",
+    "description": "Recruited from the Marriott School. Happy to share case prep tips.",
+    "tags": [
+      "consulting",
+      "strategy"
+    ],
+    "action": "Request coffee chat"
+  },
+  {
+    "id": "alu-03",
+    "type": "alum",
+    "title": "BYU alum, Associate at a PE fund, Class of 2018",
+    "org": "Alumni network",
+    "description": "Started in banking, now in private equity. Advises finance juniors.",
+    "tags": [
+      "investment-banking",
+      "finance",
+      "investing"
+    ],
+    "action": "Request coffee chat"
+  },
+  {
+    "id": "alu-04",
+    "type": "alum",
+    "title": "BYU alum, Founder of a Provo AI startup, Class of 2020",
+    "org": "Alumni network",
+    "description": "Built and raised for an AI company. Hires student interns.",
+    "tags": [
+      "entrepreneurship",
+      "ai",
+      "startups",
+      "software"
+    ],
+    "action": "Request coffee chat"
+  },
+  {
+    "id": "alu-05",
+    "type": "alum",
+    "title": "BYU alum, Software Engineer at a Lehi tech company, Class of 2022",
+    "org": "Alumni network",
+    "description": "CS grad who can talk through SWE interviews and team matching.",
+    "tags": [
+      "software",
+      "tech"
+    ],
+    "action": "Request coffee chat"
+  },
+  {
+    "id": "alu-06",
+    "type": "alum",
+    "title": "BYU alum, Brand Manager at a consumer goods company, Class of 2017",
+    "org": "Alumni network",
+    "description": "Marketing leader who mentors students interested in brand work.",
+    "tags": [
+      "marketing",
+      "media",
+      "outdoors"
+    ],
+    "action": "Request coffee chat"
+  },
+  {
+    "id": "alu-07",
+    "type": "alum",
+    "title": "BYU alum, Program Director at a global nonprofit, Class of 2015",
+    "org": "Alumni network",
+    "description": "Works on development programs abroad. Open to talking about impact careers.",
+    "tags": [
+      "social-impact",
+      "nonprofit",
+      "international"
+    ],
+    "action": "Request coffee chat"
+  },
+  {
+    "id": "alu-08",
+    "type": "alum",
+    "title": "BYU alum, Healthcare Data Scientist, Class of 2019",
+    "org": "Alumni network",
+    "description": "Uses analytics to improve patient care. Mentors data and pre-health students.",
+    "tags": [
+      "data",
+      "healthcare"
+    ],
+    "action": "Request coffee chat"
+  }
+]

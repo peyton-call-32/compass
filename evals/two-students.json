@@ -1,0 +1,24 @@
+[
+  {
+    "id": "eval-a",
+    "createdAt": "2026-09-28T00:00:00.000Z",
+    "format": "eval",
+    "major": "Finance",
+    "year": "Junior",
+    "interests": ["investing", "real-estate"],
+    "targetRoles": ["investment-banking", "finance"],
+    "experience": "Treasurer of a campus club. Summer job at a credit union.",
+    "summary": "Junior finance major aiming for investment banking. Interested in investing and real estate."
+  },
+  {
+    "id": "eval-b",
+    "createdAt": "2026-09-28T00:00:00.000Z",
+    "format": "eval",
+    "major": "Computer Science",
+    "year": "Sophomore",
+    "interests": ["ai", "startups"],
+    "targetRoles": ["software", "product"],
+    "experience": "Built a class project with a small team. TA for an intro programming class.",
+    "summary": "Sophomore CS major who wants software or product roles. Interested in AI and startups."
+  }
+]
